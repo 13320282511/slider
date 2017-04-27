@@ -16,7 +16,6 @@
  		this.init();
  		this.renderDOM();
  		this.bindDOM();
- 		var tt;
  		
  	};
 
