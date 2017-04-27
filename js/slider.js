@@ -15,7 +15,8 @@
  		//构造三部曲
  		this.init();
  		this.renderDOM();
- 		this.bindDOM(44);
+ 		this.bindDOM();
+ 		var zz;
  		
  	};
 
