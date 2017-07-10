@@ -24,7 +24,7 @@
  			//算出窗口长宽比
  			this.radio = window.innerHeight/window.innerWidth;
  			this.scaleW = window.innerWidth;
- 			//当前图片索引
+ 			//当前图片索引;
  			this.idx = 0;
  		},
  		renderDOM : function(){
